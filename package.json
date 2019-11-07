@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "d3": "^5.12",
-    "dagre": "^0.8.4",
+    "dagre": "https://github.com/mradman-tildeloop/dagre.git",
     "graphlib": "^2.1.7",
     "lodash": "^4.17.15"
   },
